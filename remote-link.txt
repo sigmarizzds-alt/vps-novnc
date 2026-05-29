@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://entertaining-precipitation-its-treaty.trycloudflare.com/vnc.html
+URL       : https://allergy-wild-sizes-placed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-29 08:45:59
+Created   : 2026-05-29 12:51:22
 =======================================================
