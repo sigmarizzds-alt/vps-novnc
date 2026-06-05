@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://joint-generous-rush-margin.trycloudflare.com/vnc.html
+URL       : https://solar-elvis-revelation-operator.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-05 03:59:54
+Created   : 2026-06-05 08:47:36
 =======================================================
