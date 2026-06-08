@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://confirmed-concentrate-pace-prompt.trycloudflare.com/vnc.html
+URL       : https://while-sam-medication-damages.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-08 17:58:41
+Created   : 2026-06-08 21:53:37
 =======================================================
