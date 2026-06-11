@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://equal-ships-flyer-bruce.trycloudflare.com/vnc.html
+URL       : https://compounds-hostel-mayor-retreat.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-11 04:12:33
+Created   : 2026-06-11 09:15:40
 =======================================================
