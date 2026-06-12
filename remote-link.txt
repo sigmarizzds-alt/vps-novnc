@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://recognition-eleven-sand-advertise.trycloudflare.com/vnc.html
+URL       : https://rich-desirable-levy-gregory.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-12 17:41:40
+Created   : 2026-06-12 21:50:29
 =======================================================
