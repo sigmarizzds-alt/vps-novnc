@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://photography-whatever-simulation-software.trycloudflare.com/vnc.html
+URL       : https://carrier-bryan-navigate-robust.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-18 12:57:13
+Created   : 2026-06-18 18:08:46
 =======================================================
