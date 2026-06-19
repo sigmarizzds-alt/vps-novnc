@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://employed-vegetation-reflects-decreased.trycloudflare.com/vnc.html
+URL       : https://crafts-instrument-nvidia-display.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-19 13:38:39
+Created   : 2026-06-19 17:23:05
 =======================================================
