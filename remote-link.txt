@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://aids-ends-shades-red.trycloudflare.com/vnc.html
+URL       : https://arc-eternal-memory-acquired.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-19 21:13:50
+Created   : 2026-06-20 03:54:40
 =======================================================
