@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://treasury-particle-dog-librarian.trycloudflare.com/vnc.html
+URL       : https://wisconsin-provider-ward-assigned.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-28 08:24:42
+Created   : 2026-06-28 16:14:29
 =======================================================
