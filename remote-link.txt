@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://serving-register-pressure-cbs.trycloudflare.com/vnc.html
+URL       : https://aims-silk-realistic-collector.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-28 21:06:20
+Created   : 2026-06-29 04:08:02
 =======================================================
