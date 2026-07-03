@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ray-inquire-jaguar-collect.trycloudflare.com/vnc.html
+URL       : https://blank-squad-exams-jewelry.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-03 03:27:11
+Created   : 2026-07-03 08:13:28
 =======================================================
