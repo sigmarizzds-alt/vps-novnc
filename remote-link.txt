@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://budapest-thoroughly-administrator-translation.trycloudflare.com/vnc.html
+URL       : https://food-ranks-spots-amy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-05 03:36:29
+Created   : 2026-07-05 08:00:22
 =======================================================
