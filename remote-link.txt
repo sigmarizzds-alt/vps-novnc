@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://including-mercy-charges-ocean.trycloudflare.com/vnc.html
+URL       : https://avatar-prozac-cells-italia.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-06 09:03:23
+Created   : 2026-07-06 13:49:23
 =======================================================
