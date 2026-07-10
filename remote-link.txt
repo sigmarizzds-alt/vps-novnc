@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://decades-caring-artist-fundamentals.trycloudflare.com/vnc.html
+URL       : https://aug-sponsorship-roulette-exemption.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-10 03:31:40
+Created   : 2026-07-10 08:26:19
 =======================================================
