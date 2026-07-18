@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cad-presented-individually-galleries.trycloudflare.com/vnc.html
+URL       : https://notebook-summit-avon-requiring.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-18 07:03:09
+Created   : 2026-07-18 11:08:46
 =======================================================
