@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://expo-refers-chips-borders.trycloudflare.com/vnc.html
+URL       : https://exclude-complex-victoria-reference.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-20 16:27:34
+Created   : 2026-07-20 21:15:36
 =======================================================
