@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://systems-measuring-gui-lighter.trycloudflare.com/vnc.html
+URL       : https://space-enemies-zealand-glance.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-22 21:12:29
+Created   : 2026-07-23 02:53:54
 =======================================================
