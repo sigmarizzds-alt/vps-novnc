@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://proxy-depending-degree-replaced.trycloudflare.com/vnc.html
+URL       : https://focusing-api-font-finger.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-24 16:46:15
+Created   : 2026-07-24 21:07:43
 =======================================================
