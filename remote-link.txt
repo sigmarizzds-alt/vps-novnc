@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://intermediate-storm-patterns-nutritional.trycloudflare.com/vnc.html
+URL       : https://flame-compliant-accompanying-test.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-25 07:21:13
+Created   : 2026-07-25 11:14:27
 =======================================================
