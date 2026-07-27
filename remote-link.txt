@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mounting-efficiency-king-coming.trycloudflare.com/vnc.html
+URL       : https://kodak-offer-identifying-aye.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-27 08:33:59
+Created   : 2026-07-27 12:58:00
 =======================================================
