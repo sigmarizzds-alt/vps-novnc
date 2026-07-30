@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://buys-brad-psp-mount.trycloudflare.com/vnc.html
+URL       : https://april-lan-boost-trustees.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-30 02:31:55
+Created   : 2026-07-30 07:36:18
 =======================================================
