@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://eagle-keyword-surely-cards.trycloudflare.com/vnc.html
+URL       : https://brands-cuisine-right-silly.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 11:19:31
+Created   : 2026-08-02 16:03:43
 =======================================================
