@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://brands-cuisine-right-silly.trycloudflare.com/vnc.html
+URL       : https://lead-examining-prove-triumph.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 16:03:43
+Created   : 2026-08-02 20:59:14
 =======================================================
