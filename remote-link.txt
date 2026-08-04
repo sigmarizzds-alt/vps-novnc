@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://anthropology-curriculum-cod-lead.trycloudflare.com/vnc.html
+URL       : https://content-spell-spanking-illinois.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 02:40:38
+Created   : 2026-08-04 07:43:08
 =======================================================
