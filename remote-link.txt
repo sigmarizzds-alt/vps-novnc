@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://attempt-assist-determining-lake.trycloudflare.com/vnc.html
+URL       : https://europe-bandwidth-operates-pink.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 16:46:01
+Created   : 2026-08-05 21:14:00
 =======================================================
