@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://rug-plus-linear-safe.trycloudflare.com/vnc.html
+URL       : https://practice-accounting-cheese-grid.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 05:27:50
+Created   : 2026-08-15 10:25:56
 =======================================================
