@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://steal-begin-engineer-stages.trycloudflare.com/vnc.html
+URL       : https://daughter-acute-archived-resolve.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-17 10:35:42
+Created   : 2026-08-17 15:28:35
 =======================================================
