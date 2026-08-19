@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pubs-arcade-magnet-contributing.trycloudflare.com/vnc.html
+URL       : https://quit-enjoy-relatively-install.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 10:32:30
+Created   : 2026-08-19 15:35:34
 =======================================================
