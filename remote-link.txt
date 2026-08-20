@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fruits-borough-egg-important.trycloudflare.com/vnc.html
+URL       : https://const-dominant-simpson-joined.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-20 15:37:30
+Created   : 2026-08-20 20:32:04
 =======================================================
