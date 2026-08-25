@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://reid-bench-file-leslie.trycloudflare.com/vnc.html
+URL       : https://locking-burst-remembered-address.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-24 20:33:44
+Created   : 2026-08-25 01:20:55
 =======================================================
