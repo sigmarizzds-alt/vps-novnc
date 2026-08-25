@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hopes-positive-rna-hint.trycloudflare.com/vnc.html
+URL       : https://acc-italia-find-ventures.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-25 10:36:28
+Created   : 2026-08-25 15:45:03
 =======================================================
