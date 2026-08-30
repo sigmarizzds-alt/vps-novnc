@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gamma-rio-baghdad-rats.trycloudflare.com/vnc.html
+URL       : https://connecting-wise-simpson-truly.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 22:30:08
+Created   : 2026-08-30 04:12:33
 =======================================================
