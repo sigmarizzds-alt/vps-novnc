@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://regardless-geographical-windsor-nascar.trycloudflare.com/vnc.html
+URL       : https://bay-fraser-companies-dosage.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 19:19:29
+Created   : 2026-10-14 23:03:39
 =======================================================
