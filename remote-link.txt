@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sip-surprising-perry-swing.trycloudflare.com/vnc.html
+URL       : https://red-terminology-reporting-concern.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 03:49:21
+Created   : 2026-10-21 09:54:42
 =======================================================
