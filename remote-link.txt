@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://temperature-princeton-instrument-jelsoft.trycloudflare.com/vnc.html
+URL       : https://nursing-wrote-creek-sur.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 09:38:46
+Created   : 2026-10-25 14:10:55
 =======================================================
